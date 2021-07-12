@@ -5,6 +5,7 @@
     #   category.py
 #   --input input-path
 #   --output outputfile
+##### it seems that I need to improve this by reviewing currently, as this didn't consider framework support/characteristics
 
 from pyspark import SparkContext
 from ml_utils import *
